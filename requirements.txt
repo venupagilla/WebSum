@@ -1,0 +1,6 @@
+Flask==2.3.2
+transformers==4.30.0
+httpx==0.24.1
+beautifulsoup4==4.12.2
+flask-caching==1.10.2
+python-docx==0.8.11
