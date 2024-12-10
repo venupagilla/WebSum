@@ -1,7 +1,0 @@
-beautifulsoup4
-bs4
-requests
-transformers
-streamlit
-tensorflow
-tf-keras
